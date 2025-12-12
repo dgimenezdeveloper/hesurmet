@@ -88,7 +88,7 @@ export const Footer: React.FC = () => {
                 </div>
                 <div className="flex flex-col">
                   <span className="text-white font-medium">0800 666 9947</span>
-                  <span className="text-xs">Lea Gratuita 24hs</span>
+                  <span className="text-xs">Línea Gratuita 24hs</span>
                 </div>
               </li>
               <li className="flex items-center group">
@@ -130,8 +130,8 @@ export const Footer: React.FC = () => {
                 className="group flex items-center justify-between w-full bg-gradient-to-r from-emerald-600 to-emerald-700 hover:from-emerald-500 hover:to-emerald-600 text-white p-4 rounded-xl transition-all shadow-lg shadow-emerald-900/20"
               >
                 <div>
-                  <div className="text-xs font-medium text-emerald-100 mb-0.5">Atencin Comercial</div>
-                  <div className="font-bold">Solicitar Cotizacin</div>
+                  <div className="text-xs font-medium text-emerald-100 mb-0.5">Atención Comercial</div>
+                  <div className="font-bold">Solicitar Cotización</div>
                 </div>
                 <div className="bg-white/10 p-2 rounded-lg group-hover:bg-white/20 transition-colors">
                   <ArrowRight className="w-5 h-5" />
@@ -145,7 +145,7 @@ export const Footer: React.FC = () => {
           <p className="text-slate-500"> {new Date().getFullYear()} Hesurmet S.A. Todos los derechos reservados.</p>
           <div className="flex space-x-6">
             <a href="#" className="text-slate-500 hover:text-white transition-colors">Privacidad</a>
-            <a href="#" className="text-slate-500 hover:text-white transition-colors">Trminos</a>
+            <a href="#" className="text-slate-500 hover:text-white transition-colors">Términos</a>
             <a href="#" className="text-slate-500 hover:text-white transition-colors">Mapa del Sitio</a>
           </div>
         </div>
