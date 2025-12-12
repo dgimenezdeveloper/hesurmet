@@ -21,16 +21,6 @@ export const LandingPage: React.FC = () => {
         <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full pt-20">
           <div className="md:w-3/4 lg:w-2/3">
             <div className="flex flex-col items-center mb-8 ">
-              <img
-                src="https://parqueindustrialburzaco.com/proveedores/wp-content/uploads/listing-uploads/logo/2021/07/LOGO-HESURMET-500X500-1.jpg"
-                alt="Logo Hesurmet"
-                className="w-64 max-w-xs mb-4 drop-shadow-lg rounded-xl bg-white/80 p-2"
-                style={{ objectFit: 'contain' }}
-              />
-              <div className="inline-flex items-center rounded-full px-4 py-1.5 text-sm font-medium bg-emerald-500/10 text-emerald-300 border border-emerald-500/20 backdrop-blur-md shadow-lg shadow-emerald-900/20">
-                <span className="flex h-2 w-2 rounded-full bg-emerald-400 mr-2 animate-pulse shadow-[0_0_10px_rgba(52,211,153,0.5)]"></span>
-                Líderes en Higiene Urbana
-              </div>
             </div>
             
             <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-heading font-bold text-white mb-8 leading-[1.1] tracking-tight">
